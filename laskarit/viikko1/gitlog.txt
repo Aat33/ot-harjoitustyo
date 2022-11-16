@@ -1,0 +1,73 @@
+Author: Aat33 <aate.ruskeepaa@aalto.fi>
+Date:   Wed Nov 16 14:23:25 2022 +0200
+
+    muutoksia eka ja kolmas
+
+ eka.txt    | 2 ++
+ kolmas.txt | 2 ++
+ 2 files changed, 4 insertions(+)
+
+commit d5fc7291c918163c6886b3d860d5be0f76614e0c
+Author: Aat33 <aate.ruskeepaa@aalto.fi>
+Date:   Wed Nov 16 14:00:04 2022 +0200
+
+    tiedoston nimen muutos
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 2f53aa1c2315b225e9cafa78f5e1213f51a29e9b
+Author: Aat33 <aate.ruskeepaa@aalto.fi>
+Date:   Wed Nov 16 13:57:31 2022 +0200
+
+    poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 41ed289bb158361e87309599d9b572628467e813
+Author: Aat33 <aate.ruskeepaa@aalto.fi>
+Date:   Wed Nov 16 13:21:02 2022 +0200
+
+    uusi hakemisto ja tiedosto
+
+ stuff/stuff.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9d18ca2a193a3fa1c0c6c20c4dfe996144aa58a9
+Author: Aat33 <aate.ruskeepaa@aalto.fi>
+Date:   Wed Nov 16 13:18:34 2022 +0200
+
+    muokattu kahta tiedostoa
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 58a96f9d1ab4edc3e5ed9f5275eff7d3d45f1187
+Author: Aat33 <aate.ruskeepaa@aalto.fi>
+Date:   Wed Nov 16 13:16:14 2022 +0200
+
+    uusi tiedosto
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5f7fd38d87ffeb1e37da4b7a0464f775141d6bed
+Author: Aat33 <aate.ruskeepaa@aalto.fi>
+Date:   Wed Nov 16 13:08:50 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit b80996bdfe3a7ea2f75cb8cf768cd1abd3d280b8
+Author: Aat33 <aate.ruskeepaa@aalto.fi>
+Date:   Wed Nov 16 13:04:00 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
